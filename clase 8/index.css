@@ -1,0 +1,49 @@
+h2,p{
+    color: blueviolet;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.class{
+    color: black;
+    background-color: aqua;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 50%;
+    margin: 50px;
+    float: right;
+    }
+.visita{
+    background-color: greenyellow;
+}
+.direc{
+    background-color: blue;
+}
+.trans{
+    background-color: brown;
+}
+
+.medellin{
+    background-color: aquamarine;
+} 
+.cra{
+    background-color: grey;
+}
+.met{
+    background-color: blueviolet;
+}
+.playa{
+    background-color: bisque;
+}
+.mar{
+    background-color: aqua;
+}
+.av{
+    background-color: green;
+}
+  
+
+
+
